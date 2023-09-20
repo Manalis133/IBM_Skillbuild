@@ -4,7 +4,7 @@
 
 ## Overview
 
-This project performs sentiment analysis on restaurant reviews to classify them as either positive or negative. It leverages natural language processing (NLP) techniques and machine learning algorithms to automate the sentiment analysis process. The project provides valuable insights into customer sentiments, aiding restaurant owners and managers in making data-driven decisions to enhance customer satisfaction.
+This project performs sentiment analysis on restaurant reviews to classify them as either positive or negative. It uses natural language processing (NLP) techniques and machine learning algorithms to automate the sentiment analysis process. The project provides valuable insights into customer sentiments, aiding restaurant owners and managers in making data-driven decisions to enhance customer satisfaction.
 
 ## Features
 
